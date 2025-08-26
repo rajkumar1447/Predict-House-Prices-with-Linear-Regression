@@ -26,17 +26,17 @@ python app.py.py
 
 
 📊 Output Example
-Mean Squared Error: 0.529
-R2 Score: 0.61
-Intercept: -36.9419
+Mean Squared Error: 0.555891598695244
+R2 Score: 0.5757877060324511
+Intercept: -37.023277706064064
 
 Coefficient for each feature:
-                Coefficient
-MedInc              0.438
-HouseAge            0.009
-AveRooms           -0.108
-AveBedrms           0.645
-Population         -0.000
-AveOccup           -0.004
-Latitude           -0.421
-Longitude          -0.432
+            Coefficient
+MedInc         0.448675
+HouseAge       0.009724
+AveRooms      -0.123323
+AveBedrms      0.783145
+Population    -0.000002
+AveOccup      -0.003526
+Latitude      -0.419792
+Longitude     -0.433708
